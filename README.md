@@ -7,6 +7,7 @@ Which variables/coefficients provided a non-random amount of variance to the mpg
 ![image](https://user-images.githubusercontent.com/79486450/121827275-69a5ee00-cc89-11eb-9e02-3d264e1b82f0.png)
 
 Is the slope of the linear model considered to be zero? Why or why not?
+The slope is not zero, because the p-value is less than 0.05
 ![image](https://user-images.githubusercontent.com/79486450/121827322-90fcbb00-cc89-11eb-9502-c50e3092d7aa.png)
 
 Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
