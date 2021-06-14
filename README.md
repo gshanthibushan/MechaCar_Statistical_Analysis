@@ -28,4 +28,27 @@ The design specifications for the MechaCar suspension coils dictate that the var
 ![image](https://user-images.githubusercontent.com/79486450/121831806-6ebd6a00-cc96-11eb-80b8-63f6759773d8.png)
 
 
-## Design a Study Comparing the MechaCar to the Competition
+## Study Design: MechaCar vs Competition
+In order quantify how the MechaCar performs against the competition, we need to create a statistical design experiment.
+In this statiscal study, following will be addressed:
+
+# Metrics:
+Need to collect follwoing data for the past years and social media suvey on customer perference when trying to purchase new car:
+Price of the multiple cars of the same model (MechaCar)
+Fuel Efficiency mileage claims of MechaCar vs the multiple cars of the same model
+Safety Rating
+Mainteance cost
+Customer puchase of electric vs Hybrid vs fuel
+
+# Null hypothesis or alternative hypothesis
+Null Hypothesis: MechaCar is priced correctly based on the metrics collected and when compare to the competitors
+Alternative Hypothesis: MechaCar is priced incorrectly based on the metrics collected and compare to the competitors
+
+# Statistical Tests
+Multiple linear regression model would be ideal for the statistical test on the collected datatset; the reason is, it will indicate how the dependent variable change the independent variable. Furthermore, it allows to identify the importatnt factors of the dependent variable.
+
+# Rrun the statistical test
+Price - Dependent Variable
+Fuel Efficiency - Independent Variable
+Safety Rating - Independent Variable
+Mainteance cost - Independent Variable
